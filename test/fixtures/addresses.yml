@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer: one
+  is_primary: false
+  business: MyString
+  line_1: MyString
+  line_2: MyString
+  city: MyString
+  state: one
+  country: one
+  zip: MyString
+
+two:
+  customer: two
+  is_primary: false
+  business: MyString
+  line_1: MyString
+  line_2: MyString
+  city: MyString
+  state: two
+  country: two
+  zip: MyString

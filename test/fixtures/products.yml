@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  is_published: false
+  title: MyString
+  description: MyText
+  meta_title: MyString
+  meta_description: MyText
+  meta_keywords: MyString
+  price: 9.99
+  created_at: <%= DateTime.current %>
+  updated_at: <%= DateTime.current %>
+
+two:
+  is_published: false
+  title: MyString
+  description: MyText
+  meta_title: MyString
+  meta_description: MyText
+  meta_keywords: MyString
+  price: 9.99
+  created_at: <%= DateTime.current %>
+  updated_at: <%= DateTime.current %>

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer: one
+  status: one
+  order_hash: MyString
+  shipping_address: one
+  billing_address: one
+
+two:
+  customer: two
+  status: two
+  order_hash: MyString
+  shipping_address: two
+  billing_address: two
